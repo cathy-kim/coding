@@ -5,7 +5,7 @@ SW 역량테스트 대비
 - 프로그래머스: https://programmers.co.kr 
 
 ## C/C++  
-<h2 id="-">수학</h2>
+<h3 id="-">수학</h3>
 <ul>
 <li><a href="https://www.acmicpc.net/10430">나머지</a></li>
 <li><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></li>
@@ -14,7 +14,7 @@ SW 역량테스트 대비
 <li><a href="https://www.acmicpc.net/problem/1978">소수 찾기</a></li>
 <li><a href="https://www.acmicpc.net/problem/6588">골드바흐의 추측</a></li>
 </ul>
-<h2 id="-">브루트 포스</h2>
+<h3 id="-">브루트 포스</h3>
 <ul>
 <li><a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a></li>
 <li><a href="https://www.acmicpc.net/problem/1476">날짜 계산</a></li>
@@ -33,7 +33,7 @@ SW 역량테스트 대비
 <li><a href="https://www.acmicpc.net/problem/15658">연산자 끼워넣기 (2)</a></li>
 <li><a href="https://www.acmicpc.net/problem/11723">집합</a></li>
 </ul>
-<h2 id="-n-m-">브루트 포스 (N과 M 연습)</h2>
+<h3 id="-n-m-">브루트 포스 (N과 M 연습)</h3>
 <ul>
 <li><a href="https://www.acmicpc.net/problem/15649">N과 M(1)</a></li>
 <li><a href="https://www.acmicpc.net/problem/15650">N과 M(2)</a></li>
@@ -48,7 +48,7 @@ SW 역량테스트 대비
 <li><a href="https://www.acmicpc.net/problem/15665">N과 M(11)</a></li>
 <li><a href="https://www.acmicpc.net/problem/15666">N과 M(12)</a></li>
 </ul>
-<h2 id="-bfs">그래프와 BFS</h2>
+<h3 id="-bfs">그래프와 BFS</h3>
 <ul>
 <li><a href="https://www.acmicpc.net/problem/13023">ABCDE</a></li>
 <li><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a></li>
@@ -65,7 +65,7 @@ SW 역량테스트 대비
 <li><a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a></li>
 <li><a href="https://www.acmicpc.net/problem/3055">탈출</a></li>
 </ul>
-<h2 id="-">다이나믹 프로그래밍</h2>
+<h3 id="-">다이나믹 프로그래밍</h3>
 <ul>
 <li><a href="https://www.acmicpc.net/problem/1463">1로 만들기</a></li>
 <li><a href="https://www.acmicpc.net/problem/11726">2×n 타일링</a></li>
