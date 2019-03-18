@@ -11,16 +11,16 @@ SW 역량테스트 대비
 </ul>
 
 <h3 id="-">수학</h3>
-- [x] <a href="https://www.acmicpc.net/10430">나머지</a>
-- [x] <a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a>
+- [x] 나머지 
+- [x] 최대공약수와 최소공배수
 - [x] <a href="https://www.acmicpc.net/problem/1934">최소공배수</a>
 - [x] <a href="https://www.acmicpc.net/problem/9613">GCD 합</a>
 - [x] <a href="https://www.acmicpc.net/problem/1978">소수 찾기</a>
 - [ ] <a href="https://www.acmicpc.net/problem/6588">골드바흐의 추측</a>
 
 <h3 id="-">브루트 포스</h3>
-- [ ] <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>
-- [ ] <a href="https://www.acmicpc.net/problem/1476">날짜 계산</a>
+- [x] <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>
+- [x] <a href="https://www.acmicpc.net/problem/1476">날짜 계산</a>
 - [ ] <a href="https://www.acmicpc.net/problem/14500">테트로미노</a>
 - [ ] <a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a>
 - [ ] <a href="https://www.acmicpc.net/problem/10972">다음 순열</a>
