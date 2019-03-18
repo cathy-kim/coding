@@ -12,7 +12,7 @@ SW 역량테스트 대비
 
 <h3 id="-">수학</h3>
 <ul>
-<li><input type="checkbox" checked/><a href="https://www.acmicpc.net/10430">나머지</a></li> 
+<li><input type="checkbox" checked><a href="https://www.acmicpc.net/10430">나머지</a></li> 
 <li><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></li>
 <li><a href="https://www.acmicpc.net/problem/1934">최소공배수</a></li>
 <li><a href="https://www.acmicpc.net/problem/9613">GCD 합</a></li>
