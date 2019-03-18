@@ -19,22 +19,22 @@ SW 역량테스트 대비
 - [ ] <a href="https://www.acmicpc.net/problem/6588">골드바흐의 추측</a>
 
 <h3 id="-">브루트 포스</h3>
-- [ ]<a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>
-- [ ]<a href="https://www.acmicpc.net/problem/1476">날짜 계산</a>
-- [ ]<a href="https://www.acmicpc.net/problem/14500">테트로미노</a>
-- [ ]<a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a>
-- [ ]<a href="https://www.acmicpc.net/problem/10972">다음 순열</a>
-- [ ]<a href="https://www.acmicpc.net/problem/10973">이전 순열</a>
-- [ ]<a href="https://www.acmicpc.net/problem/10974">모든 순열</a>
-- [ ]<a href="https://www.acmicpc.net/problem/10819">차이를 최대로</a>
-- [ ]<a href="https://www.acmicpc.net/problem/10971">외판원 순회 2</a>
-- [ ]<a href="https://www.acmicpc.net/problem/6603">로또</a>
-- [ ]<a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>
-- [ ]<a href="https://www.acmicpc.net/problem/1759">암호 만들기</a>
-- [ ]<a href="https://www.acmicpc.net/problem/1182">부분집합의 합</a>
-- [ ]<a href="https://www.acmicpc.net/problem/14501">퇴사</a>
-- [ ]<a href="https://www.acmicpc.net/problem/15658">연산자 끼워넣기 (2)</a>
-- [ ]<a href="https://www.acmicpc.net/problem/11723">집합</a>
+- [ ] <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>
+- [ ] <a href="https://www.acmicpc.net/problem/1476">날짜 계산</a>
+- [ ] <a href="https://www.acmicpc.net/problem/14500">테트로미노</a>
+- [ ] <a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a>
+- [ ] <a href="https://www.acmicpc.net/problem/10972">다음 순열</a>
+- [ ] <a href="https://www.acmicpc.net/problem/10973">이전 순열</a>
+- [ ] <a href="https://www.acmicpc.net/problem/10974">모든 순열</a>
+- [ ] <a href="https://www.acmicpc.net/problem/10819">차이를 최대로</a>
+- [ ] <a href="https://www.acmicpc.net/problem/10971">외판원 순회 2</a>
+- [ ] <a href="https://www.acmicpc.net/problem/6603">로또</a>
+- [ ] <a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>
+- [ ] <a href="https://www.acmicpc.net/problem/1759">암호 만들기</a>
+- [ ] <a href="https://www.acmicpc.net/problem/1182">부분집합의 합</a>
+- [ ] <a href="https://www.acmicpc.net/problem/14501">퇴사</a>
+- [ ] <a href="https://www.acmicpc.net/problem/15658">연산자 끼워넣기 (2)</a>
+- [ ] <a href="https://www.acmicpc.net/problem/11723">집합</a>
 
 <h3 id="-n-m-">브루트 포스 (N과 M 연습)</h3>
 <ul>
